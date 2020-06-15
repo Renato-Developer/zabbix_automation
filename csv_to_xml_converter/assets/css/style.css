@@ -1,0 +1,128 @@
+
+/*----------- CORPO ----------*/
+body{
+	background: #E8CBC0;
+	background: -webkit-linear-gradient(to right, #E8CBC0, #636FA4);
+	background: linear-gradient(to right, #E8CBC0, #636FA4);
+	min-height: 100vh;
+	padding: 5px;
+}
+/*----------- CORPO ----------*/
+
+
+/*----------CADASTRO DE HOSTS---------- */
+.col-md-12 h3 {
+	 text-align: center;
+	 color: white;
+	 margin-top: 100px;
+}
+
+.container-fluid.hosts {
+	margin-top: 0;
+}
+
+.container-fluid.hosts .row {
+	border: solid 2px; 
+	padding: 15px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+.container-fluid.hosts .row .col-md-5 {
+	 background-color: #D3D3D3; 
+	 padding: 5px; 
+	 border: solid 1px; 
+	 margin-left: 15px;
+}
+
+.container-fluid.hosts .row .col-md-3 {
+	 background-color: #D3D3D3; 
+	 padding: 5px; 
+	 border: solid 1px; 
+	 margin-left: 15px;
+}
+
+.seta {
+	 width: 100px; 
+	 height: 75px; 
+	 margin-top: 75px;
+}
+
+.col-md-5.xml {
+	background-color: #ddd; 
+	padding: 5px; 
+	border: solid 1px; 
+	margin-left: 15px; 
+	height: 235px;
+}
+
+.col-md-3.xml {
+	background-color: #ddd; 
+	padding: 5px; 
+	border: solid 1px; 
+	margin-left: 15px; 
+	height: 245px;
+}
+
+/*----------CADASTRO DE HOSTS---------- */
+
+
+/*----------BOTÃO GERADOR XML-----------*/
+.button {
+   background: #5bc0de;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 6px;
+   padding: 5px 25px;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   padding: 10px;
+
+   }
+
+.button:hover {
+   background: #0bc0de;
+   color: white;
+   text-decoration: underline;
+   }
+
+.button:active {
+   background: #dddddd;
+   text-decoration: none;
+   }
+
+.links {
+	text-decoration: none;
+	color: white;
+}
+
+.links:hover {
+	text-decoration: none;
+	color: white;
+	text-decoration: underline;
+}
+
+
+.button_map {
+	margin-bottom: 500px;
+   background: #5bc0de;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 6px;
+   padding: 5px 10px;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   padding: 10px;
+   }
+
+/*----------BOTÃO GERADOR XML-----------*/
+
+.btn.btn-info {
+	margin-top: -20px;
+}
