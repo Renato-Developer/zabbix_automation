@@ -7,7 +7,7 @@ Este sistema consiste em receber uma plahilha csv e transformá-la em XML<br/>
 Automatizando assim o processo de criação de mapas e hosts no sistema que a <br/>
 empresa utiliza (ZABBIX)<br/>
 Ele atua atendendo as regras de negócio da organização, então é um projeto feito sob medida para a empresa<br/>
-
+.
 
 
 
